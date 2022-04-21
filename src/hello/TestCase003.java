@@ -8,4 +8,8 @@ public class TestCase003 {
     //when we merge and conflict will happen
 
 
+    // awesome code
+
+    // code finished in feature branch
+// this is my final result
 }
